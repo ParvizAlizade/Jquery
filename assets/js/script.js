@@ -1,4 +1,4 @@
-$(document).ready(function () {
+$(function () {
     $(".btn1").click(function () {
         $("#AzeSpan").slideToggle();
         $("#TurSpan").slideUp();
